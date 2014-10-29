@@ -1,4 +1,4 @@
-gcore
+GCore API Documentation
 =====
 
-Documentation of the GCore API
+Visit https://github.com/galorelabs/gcore/wiki for the

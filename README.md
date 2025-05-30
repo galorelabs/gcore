@@ -9,3 +9,5 @@ If you just heard about it, you're late to the party 🎉
 Visit https://q5f24l4hhi.execute-api.us-east-1.amazonaws.com/demo01 for some good vibes quotes.
 
 Copyright 2014-2025 Galore Labs. All rights reserved.
+
+![Zen Cat](https://cms-cdn.klaudsol.com/klaudsol/cat-meditate.png)
